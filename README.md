@@ -22,6 +22,10 @@ I am a Cyber Security Engineer studying at Amrita Vishwa Vidyapeetham. I have a 
 ![](https://github-contributor-stats.vercel.app/api?username=abhinai2244&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=abhinai2244&label=Profile%20Views&color=2&icon=1&pretty=false" />
+</a>
 [![](https://visitcount.itsvg.in/api?id=abhinai2244&label=Profile%20Views&color=2&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
