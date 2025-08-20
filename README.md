@@ -52,4 +52,4 @@ I’m a Cyber Security Engineer pursuing my studies at **Amrita Vishwa Vidyapeet
 
 ---
 
-**Proudly crafted with [GPRM](https://gprm.itsvg.in)** | *Last Updated: August 2025*
+
