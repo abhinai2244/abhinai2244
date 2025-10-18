@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Hey+,+Welcome+to+my+Bio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Hey+baby+,+Welcome+to+my+Bio" alt="Typing SVG" />
   </a>
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=abhinai2244&label=Profile%20Views&color=2&icon=1&pretty=false" />
@@ -31,7 +31,7 @@
   <h2><b>ABOUT ME</b></h2>
 </div>
 
-I am a Cyber Security Engineer studying at Amrita Vishwa Vidyapeetham. I have a strong interest in cyber-related jobs and am eager to apply my skills in protecting organizations from security threats and ensuring the safety of their digital assets.
+*i am a cyber security engineer studying at amrita vishwa vidyapeetham. i have a strong interest in cyber-related jobs and am eager to apply my skills in protecting organizations from security threats and ensuring the safety of their digital assets.*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
 
@@ -54,6 +54,11 @@ I am a Cyber Security Engineer studying at Amrita Vishwa Vidyapeetham. I have a 
 <div align="center">
   <h2><b>GITHUB TROPHIES</b></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=abhinai2244&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <h2><b>GITHUB ACTIVITY GRAPH</b></h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinai2244&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
