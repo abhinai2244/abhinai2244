@@ -67,7 +67,7 @@
 
 <div align="center">
   <h2><b>SNAKE GAME</b></h2>
-  <img src="https://github.com/abhinai2244/abhinai2244/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/abhinai2244/abhinai2244/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
 <div align="center">
