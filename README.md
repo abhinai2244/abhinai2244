@@ -65,19 +65,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinai2244&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
-<div align="center">
-  <h2><b>SNAKE GAME</b></h2>
-  <img src="https://raw.githubusercontent.com/abhinai2244/abhinai2244/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</div>
-
-<div align="center">
-  <h2><b>SPOTIFY NOW PLAYING</b></h2>
-  <a href="https://spotify-github-profile.vercel.app/api/playing?user=31tl7ghtoa74pmylwa3cuubooevq">
-    <img src="https://spotify-github-profile.vercel.app/api/playing?user=31tl7ghtoa74pmylwa3cuubooevq" alt="Spotify Now Playing" />
-  </a>
-  <p>To enable this, you need to authorize it <a href="https://spotify-github-profile.vercel.app/api/login">here</a>.</p>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
 
 <div align="center">
