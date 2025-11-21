@@ -6,9 +6,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=FF3C3C&lines=Hey+,+Welcome+to+my+Bio" alt="Typing SVG" />
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=abhinai2244&label=Profile%20Views&color=2&icon=1&pretty=false" />
-  </a>
 </div>
 
 <div align="center">
