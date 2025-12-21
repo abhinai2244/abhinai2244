@@ -98,20 +98,20 @@
   <h2><b>📊 GITHUB STATS</b></h2>
 </div>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/abhinai2244">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhinai2244&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abhinai2244&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/abhinai2244">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinai2244&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinai2244&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" height="165" />
   </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/abhinai2244">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinai2244&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinai2244&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" height="165" />
   </a>
-</div>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
 
