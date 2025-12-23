@@ -52,39 +52,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
 
-<div align="center">
-  <h2><b>💡 SECURITY TIP OF THE DAY</b></h2>
-</div>
-
-<div align="center">
-
-```diff
-@@  Always verify SSL certificates before entering sensitive information  @@
-+   Never reuse passwords across multiple platforms - use a password manager
-!   Keep your systems and software updated to patch security vulnerabilities
-#   Enable Two-Factor Authentication (2FA) wherever possible
--   Be cautious of phishing emails - verify sender authenticity
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
-
-<div align="center">
-  <h2><b>🏅 CERTIFICATIONS & ACHIEVEMENTS</b></h2>
-</div>
-
-<div align="center">
-
-| 🎓 Certification | 🏢 Provider | 📅 Status |
-|------------------|-------------|-----------|
-| 🔒 Ethical Hacking | Various Platforms | In Progress |
-| ☁️ Cloud Security Fundamentals | Cloud Providers | Completed |
-| 🐍 Python for Security | Online Learning | Completed |
-| 🌐 Web Application Security | Security Academies | In Progress |
-| 🛡️ Network Security | Cybersecurity Training | Completed |
-
-</div>
 
 <div align="center">
   
@@ -116,13 +83,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
 
 <div align="center">
-  <h2><b>🏆 GITHUB TROPHIES</b></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinai2244&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
-
-<div align="center">
   <h2><b>📈 CONTRIBUTION GRAPH</b></h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinai2244&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" />
 </div>
@@ -136,7 +96,7 @@
 <div align="center">
 
 <a href="https://github.com/abhinai2244/ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50&theme=radical&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2245&repo=ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50&theme=radical&hide_border=true&border_radius=10" width="48%" />
 </a>
 <a href="https://github.com/abhinai2244/LLM-Powered-Intelligent-Query-Retrieval-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=LLM-Powered-Intelligent-Query-Retrieval-System&theme=radical&hide_border=true&border_radius=10" width="48%" />
@@ -191,25 +151,6 @@
 
 ### 🎨 Design & Others
 <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,ae,pr&theme=dark&perline=9" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
-
-<div align="center">
-  <h2><b>🎯 CURRENT FOCUS</b></h2>
-</div>
-
-<div align="center">
-
-```yaml
-🎓 Learning: Advanced Penetration Testing, Cloud Security Architecture
-💼 Working_On: Security Automation Tools, Threat Intelligence Platforms  
-🔍 Interested_In: AI-powered Security Solutions, Zero Trust Architecture
-🤝 Collaborate_On: Open Source Security Projects, CTF Challenges
-💬 Ask_Me_About: Cybersecurity, Ethical Hacking, Secure Coding Practices
-⚡ Fun_Fact: I think in code and dream in hexadecimal! 0x48656C6C6F 👋
-```
 
 </div>
 
