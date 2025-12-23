@@ -54,14 +54,6 @@
 
 
 <div align="center">
-  
-**🌟 Fun Fact:** I can spend hours analyzing security vulnerabilities and never get bored! Breaking systems (ethically) is my favorite puzzle. 🧩🔓
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
-
-<div align="center">
   <h2><b>📊 GITHUB STATS</b></h2>
 </div>
 
@@ -96,7 +88,7 @@
 <div align="center">
 
 <a href="https://github.com/abhinai2244/ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2245&repo=ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50&theme=radical&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50&theme=radical&hide_border=true&border_radius=10" width="48%" />
 </a>
 <a href="https://github.com/abhinai2244/LLM-Powered-Intelligent-Query-Retrieval-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=LLM-Powered-Intelligent-Query-Retrieval-System&theme=radical&hide_border=true&border_radius=10" width="48%" />
