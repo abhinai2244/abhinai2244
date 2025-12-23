@@ -4,9 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABHINAI%20REDDY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Specialist%20|%20Ethical%20Hacker%20|%20Security%20Researcher&descAlignY=51&descAlign=50"/>
 
   <!-- Profile View Counter -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=abhinai2244&color=FF3C3C&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a)](https://github.com/abhinai2244)
-  [![GitHub Stars](https://img.shields.io/github/stars/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a)](https://github.com/abhinai2244)
+  <img src="https://komarev.com/ghpvc/?username=abhinai2244&color=FF3C3C&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/followers/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub followers" /></a>
+  <a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/stars/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub Stars" /></a>
   
 </div>
 
@@ -88,10 +88,10 @@
 <div align="center">
 
 <a href="https://github.com/abhinai2244/ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50&theme=radical&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50&theme=radical&hide_border=true&border_radius=10" width="45%" />
 </a>
 <a href="https://github.com/abhinai2244/LLM-Powered-Intelligent-Query-Retrieval-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=LLM-Powered-Intelligent-Query-Retrieval-System&theme=radical&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=LLM-Powered-Intelligent-Query-Retrieval-System&theme=radical&hide_border=true&border_radius=10" width="45%" />
 </a>
 
 </div>
@@ -99,10 +99,10 @@
 <div align="center">
 
 <a href="https://github.com/abhinai2244/Encoding-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Encoding-Bot&theme=radical&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Encoding-Bot&theme=radical&hide_border=true&border_radius=10" width="45%" />
 </a>
 <a href="https://github.com/abhinai2244/SAVE-RESTRICT-BOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=SAVE-RESTRICT-BOT&theme=radical&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=SAVE-RESTRICT-BOT&theme=radical&hide_border=true&border_radius=10" width="45%" />
 </a>
 
 </div>
@@ -110,10 +110,10 @@
 <div align="center">
 
 <a href="https://github.com/abhinai2244/Predator-Prey-EcoRL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Predator-Prey-EcoRL&theme=radical&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Predator-Prey-EcoRL&theme=radical&hide_border=true&border_radius=10" width="45%" />
 </a>
 <a href="https://github.com/abhinai2244/Self-Healing-Firewall-with-Role-Based-Access-Active-Defense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Self-Healing-Firewall-with-Role-Based-Access-Active-Defense&theme=radical&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Self-Healing-Firewall-with-Role-Based-Access-Active-Defense&theme=radical&hide_border=true&border_radius=10" width="45%" />
 </a>
 
 </div>
@@ -122,7 +122,7 @@
 
 > 💡 **Tip:** Star ⭐ the repositories you find interesting! Your support means a lot!
 
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
 
