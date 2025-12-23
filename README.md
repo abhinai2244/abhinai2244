@@ -62,7 +62,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=abhinai2244&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/abhinai2244">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinai2244&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" height="165" />
+    <img src="https://streak-stats.demolab.com/?user=abhinai2244&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" height="165" />
   </a>
 </p>
 
@@ -174,3 +174,4 @@
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   
 </div>
+
