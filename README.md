@@ -90,10 +90,10 @@
 <div align="center">
 
 <a href="https://github.com/abhinai2244/ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50&theme=radical&hide_border=true&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
 <a href="https://github.com/abhinai2244/LLM-Powered-Intelligent-Query-Retrieval-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=LLM-Powered-Intelligent-Query-Retrieval-System&theme=radical&hide_border=true&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=LLM-Powered-Intelligent-Query-Retrieval-System&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
 
 </div>
@@ -101,10 +101,10 @@
 <div align="center">
 
 <a href="https://github.com/abhinai2244/Encoding-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Encoding-Bot&theme=radical&hide_border=true&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Encoding-Bot&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
 <a href="https://github.com/abhinai2244/SAVE-RESTRICT-BOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=SAVE-RESTRICT-BOT&theme=radical&hide_border=true&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=SAVE-RESTRICT-BOT&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
 
 </div>
@@ -112,10 +112,10 @@
 <div align="center">
 
 <a href="https://github.com/abhinai2244/Predator-Prey-EcoRL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Predator-Prey-EcoRL&theme=radical&hide_border=true&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Predator-Prey-EcoRL&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
 <a href="https://github.com/abhinai2244/Self-Healing-Firewall-with-Role-Based-Access-Active-Defense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Self-Healing-Firewall-with-Role-Based-Access-Active-Defense&theme=radical&hide_border=true&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinai2244&repo=Self-Healing-Firewall-with-Role-Based-Access-Active-Defense&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
 </a>
 
 </div>
