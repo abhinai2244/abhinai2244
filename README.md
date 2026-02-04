@@ -56,20 +56,21 @@
   <hr style="width:50%; border-top: 2px solid grey;" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/abhinai2244">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhinai2244&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com/abhinai2244">
-    <img src="https://streak-stats.demolab.com/?user=abhinai2244&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" height="165" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinai2244&theme=radical" alt="GitHub Profile Details" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/abhinai2244">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinai2244&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" height="165" />
-  </a>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=abhinai2244&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinai2245&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
+</div>
 
 <br/>
 
