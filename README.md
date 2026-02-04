@@ -69,7 +69,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinai2245&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinai2244&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
 </div>
 
 <br/>
@@ -77,7 +77,7 @@
 <div align="center">
   <h2><b>📈 CONTRIBUTION GRAPH</b></h2>
   <hr style="width:50%; border-top: 2px solid grey;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinai2244&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinai2244&bg_color=0d1117&color=ffffff&line=FF3C3C&point=FF3C3C&area=true&area_color=FF3C3C&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
