@@ -3,10 +3,8 @@
 <!-- Custom Cybersecurity Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABHINAI%20REDDY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Specialist%20|%20Ethical%20Hacker%20|%20Security%20Researcher&descAlignY=51&descAlign=50"/>
 
-  <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=abhinai2244&color=FF3C3C&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/followers/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub followers" /></a>
-  <a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/stars/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub Stars" /></a>
+<a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/followers/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub followers" /></a>
+<a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/stars/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub Stars" /></a>
   
 </div>
 
@@ -28,10 +26,11 @@
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+<br/>
 
 <div align="center">
   <h2><b>👨‍💻 ABOUT ME</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
 </div>
 
 <div align="center">
@@ -50,11 +49,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
-
+<br/>
 
 <div align="center">
   <h2><b>📊 GITHUB STATS</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
 </div>
 
 <p align="center">
@@ -72,17 +71,19 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+<br/>
 
 <div align="center">
   <h2><b>📈 CONTRIBUTION GRAPH</b></h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinai2244&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" />
+  <hr style="width:50%; border-top: 2px solid grey;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinai2244&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+<br/>
 
 <div align="center">
   <h2><b>📌 PINNED REPOSITORIES</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
 </div>
 
 <div align="center">
@@ -120,14 +121,9 @@
 
 <br/>
 
-> 💡 **Tip:** Star ⭐ the repositories you find interesting! Your support means a lot!
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
-
 <div align="center">
   <h2><b>💻 SKILLS & TECHNOLOGIES</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
 </div>
 
 <div align="center">
@@ -146,7 +142,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator" />
+<br/>
 
 ---
 
@@ -160,18 +156,8 @@
   
   <br/><br/>
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  
-  <br/><br/>
-  
   <p>
     <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-FF3C3C?style=for-the-badge" alt="Made with Love and Coffee" />
   </p>
   
-  <br/>
-  
-  <!-- Visitor Count Animation -->
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-  
 </div>
-
