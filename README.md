@@ -64,7 +64,7 @@
 
 <div align="center">
   <!-- Note: Using Heroku instance as demolab.com is down. Consider self-hosting: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinai2244&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.vercel.app/?user=abhinai2244&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
