@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinai2244&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhinai2244&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
 </div>
 
 <br/>
