@@ -3,6 +3,7 @@
 <!-- Custom Cybersecurity Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABHINAI%20REDDY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Specialist%20|%20Ethical%20Hacker%20|%20Security%20Researcher&descAlignY=51&descAlign=50"/>
 
+<img src="https://komarev.com/ghpvc/?username=abhinai2244&style=for-the-badge&color=FF3C3C&label=PROFILE+VIEWS" alt="Profile Views" />
 <a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/followers/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub followers" /></a>
 <a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/stars/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub Stars" /></a>
   
