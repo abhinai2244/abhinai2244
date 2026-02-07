@@ -6,6 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=abhinai2244&style=for-the-badge&color=FF3C3C&label=PROFILE+VIEWS" alt="Profile Views" />
 <a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/followers/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub followers" /></a>
 <a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/stars/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub Stars" /></a>
+<a href="https://github.com/abhinai2244?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Forks&style=for-the-badge&color=FF3C3C&labelColor=1a1a1a&query=%24.forks&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fabhinai2244" alt="GitHub Forks" /></a>
   
 </div>
 
