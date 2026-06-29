@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # 👋 Hi, I'm Abhinai Reddy
@@ -83,4 +83,3 @@ AI-powered applications, and automation projects.
 If you like my work, consider giving a ⭐ to a repository or connecting with me.
 
 </div>
-```
