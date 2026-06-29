@@ -1,166 +1,86 @@
+```markdown
 <div align="center">
-  
-<!-- Custom Cybersecurity Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABHINAI%20REDDY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Specialist%20|%20Ethical%20Hacker%20|%20Security%20Researcher&descAlignY=51&descAlign=50"/>
 
-<img src="https://komarev.com/ghpvc/?username=abhinai2244&style=for-the-badge&color=FF3C3C&label=PROFILE+VIEWS" alt="Profile Views" />
-<a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/followers/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub followers" /></a>
-<a href="https://github.com/abhinai2244"><img src="https://img.shields.io/github/stars/abhinai2244?style=for-the-badge&color=FF3C3C&labelColor=1a1a1a" alt="GitHub Stars" /></a>
-  
-</div>
+# 👋 Hi, I'm Abhinai Reddy
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=FF3C3C&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;Cyber+Security+Enthusiast;Penetration+Tester+and+Bug+Hunter;Protecting+Digital+Assets;Always+Learning+and+Evolving" alt="Typing SVG" />
-  </a>
-</div>
+### Cyber Security Student • Python Developer • Security Enthusiast
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhinai2244" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@abhinaireddy2244" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="mailto:abhinaireddy2244@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+I'm a Cyber Security student from India 🇮🇳 who enjoys building practical security tools,
+AI-powered applications, and automation projects.
 
-<br/>
+🚀 **Currently looking for Internship and Entry-Level opportunities in**
+**Cyber Security, Software Development, and AI Security.**
 
-<div align="center">
-  <h2><b>👨‍💻 ABOUT ME</b></h2>
-  <hr style="width:50%; border-top: 2px solid grey;" />
-</div>
-
-<div align="center">
-  
-🔐 **Cyber Security Engineer** studying at **Amrita Vishwa Vidyapeetham**
-
-🛡️ Passionate about protecting digital infrastructure and securing sensitive data
-
-💼 Specializing in **Penetration Testing**, **Threat Analysis**, and **Security Architecture**
-
-🎯 Dedicated to staying ahead of evolving cyber threats and vulnerabilities
-
-🌱 Currently expanding expertise in **Cloud Security** and **DevSecOps**
-
-📚 Active contributor to cybersecurity communities and knowledge sharing
+<img src="https://komarev.com/ghpvc/?username=abhinai2244&style=flat-square&color=blue&label=Profile+Views"/>
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <h2><b>📊 GITHUB STATS</b></h2>
-  <hr style="width:50%; border-top: 2px solid grey;" />
-</div>
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinai2244&theme=radical" alt="GitHub Profile Details" />
-</div>
+- 🎓 Cyber Security student at **Amrita Vishwa Vidyapeetham**
+- 🔐 Interested in Penetration Testing, AI Security, Cloud Security, and DevSecOps
+- 💻 I enjoy building real-world security and automation projects
+- 🌱 Currently learning Splunk, LangGraph, Threat Intelligence, and Cloud Security
+- 🤝 Always open to learning, collaborating, and contributing to open source
 
-<br/>
+---
 
-<div align="center">
-  <!-- Note: Using Heroku instance as demolab.com is down. Consider self-hosting: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
-  <img src="https://streak-stats.vercel.app/?user=abhinai2244&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
-</div>
+## 🚀 Featured Projects
 
-<br/>
+- 🛡️ Self-Healing Firewall with Active Defense
+- 🤖 LLM-Powered Intelligent Query Retrieval System
+- 🚗 Accident Detection using CNN & ResNet50
+- 📁 Secure File Storage System
+- 🤖 Telegram Automation Bots
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhinai2244&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
-</div>
+---
 
-<br/>
+## 🛠️ Tech Stack
 
-<div align="center">
-  <h2><b>📈 CONTRIBUTION GRAPH</b></h2>
-  <hr style="width:50%; border-top: 2px solid grey;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinai2244&bg_color=0d1117&color=ffffff&line=FF3C3C&point=FF3C3C&area=true&area_color=FF3C3C&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" />
-</div>
+**Languages**
 
-<br/>
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-<div align="center">
-  <h2><b>📌 PINNED REPOSITORIES</b></h2>
-  <hr style="width:50%; border-top: 2px solid grey;" />
-</div>
+**Cyber Security & Tools**
 
-<div align="center">
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
-<a href="https://github.com/abhinai2244/ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhinai2244&repo=ACCIDENT-DETECTION-SYSTEM-USING-CNN-AND-RESNET50&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
-</a>
-<a href="https://github.com/abhinai2244/LLM-Powered-Intelligent-Query-Retrieval-System">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhinai2244&repo=LLM-Powered-Intelligent-Query-Retrieval-System&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
-</a>
+---
 
-</div>
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinai2244&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinai2244&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-<a href="https://github.com/abhinai2244/Encoding-Bot">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhinai2244&repo=Encoding-Bot&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
-</a>
-<a href="https://github.com/abhinai2244/SAVE-RESTRICT-BOT">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhinai2244&repo=SAVE-RESTRICT-BOT&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
-</a>
+---
 
-</div>
+## 📫 Connect with Me
 
-<div align="center">
-
-<a href="https://github.com/abhinai2244/Predator-Prey-EcoRL">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhinai2244&repo=Predator-Prey-EcoRL&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
-</a>
-<a href="https://github.com/abhinai2244/Self-Healing-Firewall-with-Role-Based-Access-Active-Defense">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhinai2244&repo=Self-Healing-Firewall-with-Role-Based-Access-Active-Defense&theme=radical&hide_border=true&border_radius=10&v=2" width="45%" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <h2><b>💻 SKILLS & TECHNOLOGIES</b></h2>
-  <hr style="width:50%; border-top: 2px solid grey;" />
-</div>
-
-<div align="center">
-
-### 🔧 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,bash,html,css&theme=dark&perline=9" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,git,github,jenkins&theme=dark&perline=9" />
-
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite,vscode,vim,powershell,nginx&theme=dark&perline=9" />
-
-### 🎨 Design & Others
-<img src="https://skillicons.dev/icons?i=figma,photoshop,blender,ae,pr&theme=dark&perline=9" />
-
-</div>
-
-<br/>
+- 💼 LinkedIn: https://linkedin.com/in/abhinai2244
+- ✍️ Medium: https://medium.com/@abhinaireddy2244
+- 📧 Email: abhinaireddy2244@gmail.com
 
 ---
 
 <div align="center">
-  <h3>🤝 Let's Connect & Collaborate!</h3>
-  <p>Feel free to reach out for collaborations, cybersecurity discussions, or just a friendly chat!</p>
-  
-  <a href="mailto:abhinaireddy2244@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <br/><br/>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-FF3C3C?style=for-the-badge" alt="Made with Love and Coffee" />
-  </p>
-  
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to a repository or connecting with me.
+
 </div>
+```
