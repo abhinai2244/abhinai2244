@@ -5,11 +5,9 @@
 
 ### Cyber Security Student • Python Developer • Security Enthusiast
 
-I'm a Cyber Security student from India 🇮🇳 who enjoys building practical security tools,
-AI-powered applications, and automation projects.
+I'm passionate about building security tools, AI-powered applications, and automation projects.
 
-🚀 **Currently looking for Internship and Entry-Level opportunities in**
-**Cyber Security, Software Development, and AI Security.**
+🚀 **Open to Internship & Entry-Level Opportunities** in Cyber Security, Software Development, and AI Security.
 
 <img src="https://komarev.com/ghpvc/?username=abhinai2244&style=flat-square&color=blue&label=Profile+Views"/>
 
@@ -20,66 +18,73 @@ AI-powered applications, and automation projects.
 ## 👨‍💻 About Me
 
 - 🎓 Cyber Security student at **Amrita Vishwa Vidyapeetham**
-- 🔐 Interested in Penetration Testing, AI Security, Cloud Security, and DevSecOps
-- 💻 I enjoy building real-world security and automation projects
-- 🌱 Currently learning Splunk, LangGraph, Threat Intelligence, and Cloud Security
-- 🤝 Always open to learning, collaborating, and contributing to open source
+- 🔐 Interested in Penetration Testing, AI Security, Cloud Security & DevSecOps
+- 💻 I enjoy building practical security and automation projects
+- 🌱 Currently learning Threat Intelligence, Splunk, LangGraph & Cloud Security
+- 🤝 Open to internships, collaborations, and open-source contributions
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🛡️ Self-Healing Firewall with Active Defense
+- 🛡️ Self-Healing Firewall with Role-Based Active Defense
 - 🤖 LLM-Powered Intelligent Query Retrieval System
 - 🚗 Accident Detection using CNN & ResNet50
-- 📁 Secure File Storage System
-- 🤖 Telegram Automation Bots
+- 🔒 Secure File Storage System
+- 📱 Telegram Automation Bots
+
+Explore more projects in my repositories!
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-
-**Cyber Security & Tools**
-
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,bash,linux,git,github,docker,aws,mongodb,mysql,vscode&perline=7" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinai2244&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinai2244&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinai2244&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinai2244&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinai2244&theme=github_dark" width="49%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=abhinai2244&theme=github-dark&hide_border=true" />
+
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/abhinai2244
-- ✍️ Medium: https://medium.com/@abhinaireddy2244
-- 📧 Email: abhinaireddy2244@gmail.com
+<p align="center">
+<a href="https://linkedin.com/in/abhinai2244">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@abhinaireddy2244">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="mailto:abhinaireddy2244@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to a repository or connecting with me.
+*"Always learning, always building."*
 
 </div>
