@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Abhinai Reddy
 
-### Cyber Security Student • Python Developer • Security Enthusiast
+### Cyber Security Student • Security Enthusiast
 
 I'm passionate about building security tools, AI-powered applications, and automation projects.
 
